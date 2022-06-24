@@ -1,1 +1,0 @@
-# avaliacao_processual_5.1_react_native
